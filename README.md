@@ -54,21 +54,21 @@
 ## 📊 Most Used Language
 <br/>
   
-![SAJIB's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAJIB6260&theme=dark)
+![SAJIB's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAJIB6260&theme=merko)
 
 ## 📟 GitHub Stats
 <br/>
 
-![SAJIB's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SAJIB6260&theme=dark)
+![SAJIB's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SAJIB6260&theme=highcontrast)
 
 ## ⏱ Streak Stats
 <br/>
   
-![SAJIB's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SAJIB6260&theme=dark)
+![SAJIB's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SAJIB6260&theme=merko)
 
 ## 💳 Github Profile Summary Card
 <br/>
 
-![SAJIB's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAJIB6260&theme=dark)
+![SAJIB's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAJIB6260&theme=merko)
 
 </div>
