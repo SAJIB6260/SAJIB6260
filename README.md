@@ -64,7 +64,7 @@
 ## ⏱ Streak Stats
 <br/>
   
-![SAJIB's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SAJIB6260&theme=merko)
+![SAJIB's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SAJIB6260&theme=dark)
 
 ## 💳 Github Profile Summary Card
 <br/>
