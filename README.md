@@ -6,7 +6,7 @@
 <br/>
 <div>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SAJIB6260&label=Profile%20views&color=0e75b6&style=flat" alt="SAJIB6260" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SAJIB6260&label=Profile%20views&color=0e75b6&style=flat" alt="SAJIB6260" /> </p>
 
 - 🌱 I’m currently learning **Express JS**
 
