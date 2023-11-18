@@ -5,8 +5,6 @@
 <img src="https://github.com/SAJIB6260/SAJIB6260/blob/main/images/Blue-Banner.png" alt="my-banner" />
 <br/>
 <div>
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SAJIB6260&label=Profile%20views&color=0e75b6&style=flat" alt="SAJIB6260" /> </p>
 
 - 🌱 I’m currently learning **Express JS**
 
@@ -15,6 +13,8 @@
 - 📫 How to reach me **ShahriaKibria@gmail.com**
 
 </div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SAJIB6260&label=Profile%20views&color=0e75b6&style=flat"  height="35" alt="SAJIB6260" /> </p>
 
 <h2 align="center">Connect with me:</h2>
 <br/>
