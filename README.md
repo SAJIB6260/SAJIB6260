@@ -25,6 +25,7 @@ I embarked on my web development journey to explore the dynamic world of technol
 
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SAJIB6260&label=Profile%20views&color=0e75b6&style=flat"  height="30" alt="SAJIB6260" /> </p>
 
 <h2 align="center">Connect with me:</h2>
 <br/>
@@ -36,8 +37,6 @@ I embarked on my web development journey to explore the dynamic world of technol
 <a href="mailto:ShahriaKibria@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"  /></a>
 <a href="https://wa.link/q5ypak" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="Whatsapp"  /></a>
 </div>
-<br/>
-<img align="center" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br/>
 <h2 align="center">💻 My workspace</h2>
 <br/>
