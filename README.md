@@ -3,6 +3,19 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=700&size=35&duration=3000&pause=1000&color=FFFFFF&background=2C577E&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahria+Kibria;I'm++Junior+Web+Developer+;And+MERN+Stack+Developer;Contact+Me+By+Email+%7C%7C+Whatsapp" alt="Typing SVG" /></a></h1>
 <br/>
 <div>
+  
+## About Me
+
+Hey there! 👋 I'm Md.Shahria Kibria Sajib, a passionate and aspiring web developer currently immersed in a web development course. I love bringing ideas to life through code and enjoy the process of turning concepts into interactive and engaging web applications.
+
+## My Journey
+
+I embarked on my web development journey to explore the dynamic world of technology and harness its power to create meaningful solutions. As part of my learning experience, I've been working on a project that involves a diverse tech stack:
+
+- **Front-end:** HTML, CSS (Tailwind CSS), JavaScript (React)
+- **Back-end:** Node.js with Express
+- **Database:** MongoDB
+
 
 - 🌱 I’m currently learning **SCIC Of Programming Hero**
 
@@ -53,6 +66,29 @@
 <img height="150" src="https://github.com/SAJIB6260/SAJIB6260/blob/main/images/JWT.png"/>
 </p>
 <br/>
+<div align="center">
+  
+## Projects
+
+### Project 1: SK Electrionics
+
+Created a SK Electrionics application using React and Node.js. Implemented CRUD operations, allowing users to add, edit, and delete tasks. Integrated MongoDB for data storage.
+
+[SK Electrionics's Live Link](https://neon-swan-f22a84.netlify.app)
+
+### Project 2: Clean CO
+
+Created a Clean CO application using React and Node.js. Implemented CRUD operations, allowing users to add, edit, and delete tasks. Integrated MongoDB for data storage.
+
+[Clean CO's Live Link](https://b8a11-offline-service.web.app/)
+
+### Project 2: Top Ten Travel App
+
+Created a Top Ten Travel application using React and Node.js. Implemented CRUD operations, allowing users to add, edit, and delete tasks. Integrated MongoDB for data storage.
+
+[Top Ten Travel's Live Link](https://darling-horse-d308ec.netlify.app/)
+
+</div>
 <div align="center">
 
 ## 📊 Most Used Language
