@@ -25,7 +25,6 @@ I embarked on my web development journey to explore the dynamic world of technol
 
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SAJIB6260&label=Profile%20views&color=0e75b6&style=flat"  height="30" alt="SAJIB6260" /> </p>
 
 <h2 align="center">Connect with me:</h2>
 <br/>
