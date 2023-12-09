@@ -1,14 +1,12 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+<img src="https://github.com/SAJIB6260/SAJIB6260/blob/main/images/Blue-Banner.png" alt="my-banner" />
 <br/>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=700&size=35&duration=3000&pause=1000&color=FFFFFF&background=2C577E&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahria+Kibria;I'm++Junior+Web+Developer+;And+MERN+Stack+Developer;Contact+Me+By+Email+%7C%7C+Whatsapp" alt="Typing SVG" /></a></h1>
 <br/>
-<img src="https://github.com/SAJIB6260/SAJIB6260/blob/main/images/Blue-Banner.png" alt="my-banner" />
-<br/>
 <div>
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **SCIC Of Programming Hero**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, MongoDB, Express, Node Js**
 
 - 📫 How to reach me **ShahriaKibria@gmail.com**
 
@@ -49,6 +47,10 @@
 <img height="150" src="https://github.com/SAJIB6260/SAJIB6260/blob/main/images/React.png"/>
 <img height="150" src="https://github.com/SAJIB6260/SAJIB6260/blob/main/images/ReactRouterDom.png"/>
 <img height="150" src="https://github.com/SAJIB6260/SAJIB6260/blob/main/images/Firebase.png"/>
+<img height="150" src="https://github.com/SAJIB6260/SAJIB6260/blob/main/images/Nodejs.png"/>
+<img height="150" src="hhttps://github.com/SAJIB6260/SAJIB6260/blob/main/images/Express.png"/>
+<img height="150" src="https://github.com/SAJIB6260/SAJIB6260/blob/main/images/MongoDB.png"/>
+<img height="150" src="https://github.com/SAJIB6260/SAJIB6260/blob/main/images/JWT.png"/>
 </p>
 <br/>
 <div align="center">
