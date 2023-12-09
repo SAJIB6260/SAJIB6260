@@ -17,7 +17,7 @@ I embarked on my web development journey to explore the dynamic world of technol
 - **Database:** MongoDB
 
 
-- 🌱 I’m currently learning **SCIC Of Programming Hero**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **React, MongoDB, Express, Node Js**
 
