@@ -111,9 +111,11 @@ Created a Top Ten Travel application using React and Node.js. Implemented CRUD o
 ![SAJIB's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SAJIB6260&theme=dark)
 
 ## 💳 Github Profile Summary Card
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height=""></img>
 <br/>
 
 ![SAJIB's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAJIB6260&theme=merko)
 
 </div>
+
+<br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height=""></img>
