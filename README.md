@@ -117,4 +117,4 @@ Created a Top Ten Travel application using React and Node.js. Implemented CRUD o
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1500" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height="30"></img>
